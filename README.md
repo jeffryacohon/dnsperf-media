@@ -1,6 +1,6 @@
 # DNSPerf Media - Logos
 
-![](dark/dnsperf-logo-full-black.png)
+![](dark/dnsperf-logo-full-black.png )
 
 * DO use our logo to link to DNSPerf
 
